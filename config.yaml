@@ -1,0 +1,9 @@
+filters:
+  min_liquidity: 50000
+  min_volume: 100000
+  require_legit_volume: true
+  require_safe_contract: true
+
+alerts:
+  telegram_token: "YOUR_TELEGRAM_BOT_TOKEN"
+  discord_webhook: "YOUR_DISCORD_WEBHOOK"
